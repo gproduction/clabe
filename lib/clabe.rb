@@ -154,7 +154,7 @@ module Clabe
     ['027', "Tijuana"],
     ['028', "La Mesa"],
     ['028', "Playas de Rosarito MX-BCN"],
-    ['028', "Tijuana", # see first occurrence at 2]7
+    ['028', "Tijuana"],
     ['040', "La Paz MX-BCS"],
     ['041', "Cabo San Lucas MX-BCS"],
     ['042', "Ciudad Constitución MX-BCS"],
